@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/StretchToolbar" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
